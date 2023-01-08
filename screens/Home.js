@@ -64,14 +64,14 @@ const styles = StyleSheet.create({
     top: 0,
     left: 78,
     position: "absolute",
-    color: "rgba(0,151,136,1)",
+    color: "#d3d3d3",
     fontSize: 156
   },
   icon6: {
     top: 0,
     left: 0,
     position: "absolute",
-    color: "rgba(0,151,136,1)",
+    color: "#d3d3d3",
     fontSize: 156
   },
   rect2: {
